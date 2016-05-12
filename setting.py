@@ -1,0 +1,1 @@
+VrayNodeType = ['VRayMtl', 'VRayBlendMtl', 'VRayBumpMtl', 'VRayMtl2Sided']
